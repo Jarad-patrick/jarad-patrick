@@ -29,6 +29,6 @@ stack i use
 
 ---
 
-> “The best way to learn to code is to build, break, ask questions, and repeat.”
+> “Go beyond, plus ultra.”
 
 Thanks for stopping by! ⭐
