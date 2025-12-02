@@ -31,4 +31,4 @@ stack i use
 
 > “Go beyond, plus ultra.”
 
-Thanks for stopping by! ⭐
+
