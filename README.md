@@ -2,7 +2,7 @@
 
 I'm a Python developer with big dreams in data science, and A.I i also build alot of cool stuff with my raspberry pi.
 
-Stack i use
+Stack i use:
 - Python 
 - Data Analysis libraries (Pandas, NumPy, Matplotlib) 
 - Flask (for web apps)
