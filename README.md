@@ -19,7 +19,7 @@ Stack i use:
  My Goals:
 - Become a data scientist with real-world project experience
 - Build and publish full-stack applications
-- Build an AI program that interacts with hardware seamlessly
+- Build an AI program that interacts with hardware seamlessly.
 
 ---
 
